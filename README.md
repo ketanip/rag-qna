@@ -4,6 +4,8 @@ In this project we use a Vector Database (Chroma DB) backed LLM Inference using 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ketanip/VectorDB-LangChain-LLM)
 
+*While running in `colab` use real OPENAI credentials for LLM inference." 
+
 # Running it 
 
 ```bash
