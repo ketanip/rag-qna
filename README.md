@@ -1,4 +1,4 @@
-# VectorDB-LangChain-LLM 🤖📊
+# Simple RAG QnA 🤖📊
 
 In this project we use a Vector Database (Chroma DB) backed LLM Inference using LangChain to create a QnA system.
 
